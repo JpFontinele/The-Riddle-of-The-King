@@ -1,7 +1,7 @@
 
 # Jogo Medieval em 2D - The-Riddle-of-The-King
 
-Este projeto foi desenvolvido como parte da disciplina de Laboratório de Criação de Jogos na Universidade Federal Fluminense. O jogo é ambientado em um cenário medieval e proporciona uma experiência única e envolvente.
+Este projeto foi desenvolvido em parceria com [Caio Conceição](https://github.com/CaioHoly) como parte da disciplina de Laboratório de Criação de Jogos na Universidade Federal Fluminense. O jogo é ambientado em um cenário medieval e proporciona uma experiência única e envolvente.
 
 ## Descrição do Jogo
 
